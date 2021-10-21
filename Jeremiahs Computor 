@@ -1,31 +1,29 @@
-# Computer Specs
-Describe each of the following aspects of your computer's hardware configuration. This should be (one of) the laptop or desktop computer(s) that you use the most.
+<h1>Computer Specs</h1>
 
-### Brand and model name/number
+ <h3>Brand and model name/number<h3>
 * apple 
 
 
-### Operating System
- * MacBook Air
+ <li>Operating System<li>
+  <li>MacBook Air<li>
 
-### CPU
-* Dual-Core Intel Core i3
-### RAM
-* 8 GB
-### Storage (HDD/SSD/Flash/etc.)
-   * 250.69 GB (250,685,575,168 bytes)
-   * 195.2 GB (195,198,828,544 bytes)
+ <li>CPU<li>
+ <li>Dual-Core Intel Core i3<li>
+<li>RAM<li>
+<h3> 8 GB 
+<li>Storage (HDD/SSD/Flash/etc.)<li>
+   <li> 250.69 GB (250,685,575,168 bytes)
+   <li>195.2 GB (195,198,828,544 bytes)<li>
 
-### Wireless (Wi-Fi/Bluetooth)
- * Wifi
- * bluetooth 
-### Ports
-  * two charging ports and headphone jack ports
+<h3>Wireless (Wi-Fi/Bluetooth)<h3>
+ <li> Wifi
+ <li>bluetooth</li> 
+<h3>Ports</h3>
+  <li>two charging ports and headphone jack ports</li>
 
-# Commentary
-I LIKE MY COMPUTOR. 
-    I had it for a year. 
+<h1> Commentary <h1>
+I LIKE MY COMPUTER FOR A YEAR. 
 
-<a href="https://jerry12110.github.io/">Visit W3Schools.com!</a>
+<a href="Jindex.html/">https://jerry12110.github.io/</a>
 
 <img width="506" alt="Screen Shot 2021-08-31 at 11 40 56 AM" src="https://user-images.githubusercontent.com/89731617/131471217-0788e817-5b4c-4c14-b5c2-cbe543be5629.png">
